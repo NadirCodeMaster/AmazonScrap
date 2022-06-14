@@ -1,0 +1,1 @@
+C:\Users\KIH\Desktop\AmazonScraper-master\AmazonScraper-master\EmailNotification\bin\Release\DailyScraper.exe.config
